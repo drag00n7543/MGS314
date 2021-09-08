@@ -1,0 +1,4 @@
+marks_obtained = 100
+total_marks = 400
+percentage = (marks_obtained/total_marks)*100
+print(percentage) 
